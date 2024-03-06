@@ -1,0 +1,60 @@
+
+        
+        nav {
+          height: 60px;
+          width: 100;
+          margin: 0 auto 0px;
+          padding: 20px 20px 15px 20px;
+
+      }
+        nav >ul {
+            list-style-type: none;
+            margin: 0;
+            padding: 0;
+            overflow: hidden;
+        }
+        nav >ul >li {
+            float: left;
+
+      margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+
+
+
+
+  
+
+
+  /******************Logo arranging color modes**********************/
+
+  *{
+    text-decoration: none;
+          margin-top: 0px;
+
+  }
+  
+  
+  
+  li{
+    list-style: none;
+           display: inline-block;
+  }
+  li a{
+          color: white;
+           font-size: 18px;
+            font-weight: bold; 
+            margin-right: 25px;
+          
+            
+  }
+  li:hover img{
+    
+      transform: scale(2.1); /* Scale up image on hover */
+  
+  }
+  
+
+
+  
